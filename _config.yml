@@ -1,6 +1,6 @@
 title: Hello marimoa!
 description: > # this means to ignore newlines until "baseurl:"
-  Blog with theme Future Imperfect<br>
+  코딩하는 뮤덕 근데 이제 한얼을 곁들인<br>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.naver.com/sky_yoon1" # the base hostname & protocol for your site, e.g. http://example.com
 
