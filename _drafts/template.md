@@ -6,6 +6,6 @@ category: category1
 icon: git
 keywords: tag1, tag2
 image: 1.png
-preview: 0
+#preview: 0
 ---
 
