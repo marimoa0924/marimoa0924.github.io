@@ -12,7 +12,7 @@ author:
   avatar: '/images/avatar.png'
   github_username: 'marimoa0924'
   email: 'sky_yoon1@naver.com'
-  logo: '/images/logo.svg'
+  logo: 'counseling.png'
 
 # Build settings
 markdown: kramdown
