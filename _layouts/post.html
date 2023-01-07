@@ -5,7 +5,6 @@ layout: default
   <header> 
     <div class="title">
       <h2>{{ page.title | escape }}</h2>
-      <p><a href="//github.com/ViKapitoshka/blog/edit/master/{{ page.path }}" class="icon"><i class="fas fa-fw fa-edit"></i> Редактировать на GitHub</a></p>
     </div>
     <div class="meta">
       <time class="published" datetime="{{ page.date }}">{{ page.date | date: "%d %b %Y %R" }}</time>
@@ -14,10 +13,10 @@ layout: default
   </header>
   {{ content }}
   
-  <p>Подписывайтесь на наш <a href="http://t.me/vikablog">канал</a> в телеграмме :)
+  <p>여기까지 읽어주셔서 감사합니다 :)</p>
   <footer>
     <ul class="stats">
-      <li><a class="icon" href="{{ site.url }}"><i class="fas fa-fw fa-folder"></i> Главная</a></li>
+      <li><a class="icon" href="{{ site.url }}"><i class="fas fa-fw fa-folder"></i> 원래 블로그 가기</a></li>
       <li><a href="//github.com/ViKapitoshka/blog/edit/master/{{ page.path }}" class="icon"><i class="fas fa-fw fa-edit"></i> Edit</a></li>
     </ul>
   </footer>
